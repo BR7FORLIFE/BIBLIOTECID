@@ -1,0 +1,38 @@
+-----Proyecto: Sistema de Gestión de Biblioteca
+Funcionalidades Principales:
+
+-----Login y Registro de Usuarios:
+
+------Registro de nuevos usuarios con nombre de usuario y contraseña.
+
+------Autenticación de usuarios existentes para iniciar sesión.
+
+------->Gestión de Libros: 
+Agregar nuevos libros a la biblioteca.
+
+-------->Buscar libros por título o autor.
+Listar todos los libros disponibles.
+
+----------------------->
+Préstamo y Devolución de Libros:
+Registrar el préstamo de un libro a un usuario.
+Registrar la devolución de un libro.
+
+-------------------->
+Persistencia de Datos:
+Guardar y cargar información de usuarios y libros desde archivos JSON.
+
+--------------------->
+Estructura del Proyecto:
+Archivos:
+main.py: Archivo principal para iniciar la aplicación.
+auth.py: Manejo de autenticación (registro y login).
+library.py: Funcionalidades relacionadas con la gestión de libros.
+data.json: Archivo JSON para almacenar datos de usuarios y libros.
+
+---------------------->
+Instrucciones Adicionales:
+Instalación de Python: Asegúrate de tener Python instalado en tu sistema.
+Archivos JSON: Familiarízate con la estructura de archivos JSON.
+Módulos en Python: Aprende cómo importar y usar módulos personalizados.
+Manejo de Errores: Añade manejo de errores adecuado para mejorar la robustez del sistema.
