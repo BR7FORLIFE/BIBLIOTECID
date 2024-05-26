@@ -31,12 +31,7 @@ def gestion_libros():
             clear_screen()
             title()
             print("CATALOGOS DE LIBROS------->")
-            with open("catalogo.json","r") as catalogo: 
-                mostrar = dict(json.load(catalogo))
-                for key in mostrar: 
-                    print(mostrar[key]["titulo"])
-                # BUSCAMOS EN EL JSON EL LIBRO SEGUN LA ELECCION DEL USUARIO
-                escoger_libro = int(input("DIGITE EL LIBRO EL CUAL QUIERE SABER MAS INFORMACION: "))
+            print("falta programar")
                 
                 
             
