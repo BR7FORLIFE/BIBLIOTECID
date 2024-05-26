@@ -1,5 +1,5 @@
 import json
-from portada import *
+from src.assests.portada import *
 def registro(): 
     clear_screen()
     title()

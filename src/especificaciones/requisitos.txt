@@ -1,11 +1,11 @@
------Proyecto: Sistema de Gestión de Biblioteca
+-----Proyecto: Sistema de Gestión de Biblioteca (HECHO)
 Funcionalidades Principales:
 
------Login y Registro de Usuarios:
+-----Login y Registro de Usuarios: (HECHO)
 
-------Registro de nuevos usuarios con nombre de usuario y contraseña.
+------Registro de nuevos usuarios con nombre de usuario y contraseña. (HECHO)
 
-------Autenticación de usuarios existentes para iniciar sesión.
+------Autenticación de usuarios existentes para iniciar sesión. (HECHO)
 
 ------->Gestión de Libros: 
 Agregar nuevos libros a la biblioteca.

@@ -1,0 +1,2 @@
+areglar el bug del login (se digita un valor en el user o password incorrecto sigue la ejecucion)
+arreglar el buscador de libros en el modulo gestion de libros

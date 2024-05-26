@@ -1,0 +1,34 @@
+{
+    "catalogo_libros": {
+        "1": {
+            "titulo": "Cien años de soledad",
+            "autor": "Gabriel García Márquez",
+            "genero": "Realismo mágico",
+            "año": 1967
+        },
+        "2": {
+            "titulo": "Don Quijote de la Mancha",
+            "autor": "Miguel de Cervantes",
+            "genero": "Novela",
+            "año": 1605
+        },
+        "3": {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "genero": "Distopía",
+            "año": 1949
+        },
+        "4": {
+            "titulo": "Orgullo y prejuicio",
+            "autor": "Jane Austen",
+            "genero": "Romance",
+            "año": 1813
+        },
+        "5": {
+            "titulo": "El Gran Gatsby",
+            "autor": "F. Scott Fitzgerald",
+            "genero": "Tragedia",
+            "año": 1925
+        }
+    }
+}

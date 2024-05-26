@@ -1,6 +1,8 @@
 import os
-import platform
+import platform  #importamos las librerias necesarias para el limpiado de pantalla
 
+
+# definimos un titulo
 def title(): 
     print("""
           
@@ -10,7 +12,7 @@ def title():
           Sistema de Gestión de Biblioteca
     """)
 
-
+# creamos la funcion de limpiado de pantalla esperando a ser llamada 
 def clear_screen():
      if os.name =="nt": 
          os.system("cls")
